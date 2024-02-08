@@ -7,7 +7,7 @@ Green Taxi ETL
 Using Mage to perform ETL on green taxi data
 ## 👷 Author
 
-Sophia Chisiya
+Soph
 
 ## 🔨 Setup Instructions
 - docker-compose up
